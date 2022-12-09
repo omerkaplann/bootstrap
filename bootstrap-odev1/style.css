@@ -1,0 +1,36 @@
+.baslik {
+  text-align: center;
+  background-color: rgb(47, 49, 206);
+  padding: 10px;
+  font-size: 55px;
+  margin: 20px;
+  color: aliceblue;
+}
+
+.container {
+  margin-top: 25px;
+}
+.about {
+  margin: 30px;
+  height: 100%;
+  width: auto;
+  background-color: azure;
+  text-align: center;
+  padding: 20px;
+}
+
+.img {
+  height: 1080px;
+}
+
+.product {
+  text-align: center;
+  position: absolute;
+  margin-right: 150px;
+}
+
+.details {
+  font-size: large;
+  padding: 50px;
+  margin: 50px;
+}
